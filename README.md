@@ -1,15 +1,20 @@
-### Hi there 👋
+### <div align="center">Hi there👋</div>
 
+### <div align="center">About Me</div>
 
-**yusuke-hada/yusuke-hada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">Hi, my name is Yusuke Hada!</div>
+<div align="center">I am a nurse based in Nagoya, Aichi. </div>
+<div align="center">I am studying at a programming school "RUNTEQ" to become an engineer!</div>
+<div align="center">Please take a look at my portfolio.</div>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusuke-hada&theme=github">
+</div>
+<br>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuke-hada&show_icons=true&locale=en&layout=compact"　width="50%" height="auto"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,bootstrap,tailwind"　width="50%" height="auto"></td>
+  <tr>
+</table>
