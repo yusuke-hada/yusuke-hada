@@ -3,9 +3,7 @@
 ### <div align="center">About Me</div>
 
 <div align="center">Hi, my name is Yusuke Hada!</div>
-<div align="center">I am a nurse based in Nagoya, Aichi. </div>
-<div align="center">I am studying at a programming school "RUNTEQ" to become an engineer!</div>
-<div align="center">Please take a look at my portfolio.</div>
+<div align="center">I am a engineer and nurse based in Nagoya, Aichi. </div>
 <br>
 
 <div align="center">
